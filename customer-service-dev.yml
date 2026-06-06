@@ -3,7 +3,7 @@ global:
 server:
   port: 2026
 message: Hello from Dev!
- spring:
+spring:
   datasource:
     url: jdbc:mysql://localhost:3306/customer_master
     driverClassName: com.mysql.cj.jdbc.Driver
